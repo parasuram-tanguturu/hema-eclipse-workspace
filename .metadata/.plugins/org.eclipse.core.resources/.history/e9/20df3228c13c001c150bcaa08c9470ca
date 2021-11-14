@@ -1,0 +1,9 @@
+package com.oops.book;
+
+public class Book {
+	void state  () {
+		
+		System.out.println("No of coppies");
+	}
+
+}

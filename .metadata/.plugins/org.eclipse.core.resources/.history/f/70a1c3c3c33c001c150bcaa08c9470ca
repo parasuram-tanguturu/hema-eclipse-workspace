@@ -1,0 +1,15 @@
+package com.oops.book;
+
+public class BookRunner {
+	public static void main(String[] args) {
+		Book javaprograme = new Book();
+		Book cleancode = new Book();
+		Book javalanguage = new Book();
+
+//		javaprograme.noofcoppies = 30;
+//		cleancode.noofcoppies = 40;
+//		javalanguage.noofcoppies = 100;
+
+	}
+
+}

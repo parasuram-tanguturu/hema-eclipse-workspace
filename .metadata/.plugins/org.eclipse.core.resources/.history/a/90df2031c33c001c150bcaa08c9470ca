@@ -1,0 +1,13 @@
+package com.oops.book;
+
+public class Book {
+	
+	int noofcoppies ;
+	
+	
+	void  open  () {
+		
+		System.out.println("Book open");
+	}
+
+}

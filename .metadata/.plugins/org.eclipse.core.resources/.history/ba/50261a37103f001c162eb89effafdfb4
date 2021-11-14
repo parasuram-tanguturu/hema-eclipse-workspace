@@ -1,0 +1,27 @@
+package com.oops.bike;
+
+public class MotorBike {
+	
+	private int speed;
+	
+	// behaviour
+	// input = int  speed
+	
+	//output= void
+	
+	//name= set spped
+	
+	 void setSpeed (int speed) {
+		 this.speed=speed;
+	}
+
+	void start () {
+		System.out.println("Motor Bik startinge");
+	}
+	
+	int getSpeed () {
+		return  speed;
+	}
+	
+}
+

@@ -1,0 +1,14 @@
+package com.firstjavaproject;
+
+public class MultiplicationTableRunner { 
+
+	public static void main(String[] args) {
+		Multiplicationtable table = new Multiplicationtable();
+
+		table.print();
+		table.print(8);
+		table.print(5, 1, 10);
+
+	}
+
+}

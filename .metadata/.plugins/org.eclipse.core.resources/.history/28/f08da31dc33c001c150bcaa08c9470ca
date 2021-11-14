@@ -1,0 +1,9 @@
+package com.oops.book;
+
+public class Book {
+	
+	int noofcoppies ;
+
+	
+
+}

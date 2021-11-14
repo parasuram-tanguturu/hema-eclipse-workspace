@@ -1,0 +1,12 @@
+
+public class BiNumbersRunner {
+
+	public static void main(String[] args) {
+		BiNumbers1 numbers=new BiNumbers1(2,3);
+      
+    	  
+      }
+
+	}
+
+}

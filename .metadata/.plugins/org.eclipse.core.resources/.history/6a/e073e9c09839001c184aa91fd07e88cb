@@ -1,0 +1,16 @@
+package com.secondproject;
+
+public class Worldprint {
+	void print() {
+
+		System.out.println("Hello World");
+	}
+
+void printname () {
+		System.out.println("String");
+}
+
+
+	void printnames("String",int numberoftimes) {
+	 
+ }

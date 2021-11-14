@@ -1,0 +1,20 @@
+package com.oops.book;
+
+public class Book {
+	
+	private int noOfPages ;
+	//intput=int pages
+	//output=void
+	//name=set pages
+	void setPages(int pages) {
+		this.noOfPages=pages;
+		System.out.println(pages);
+		System.out.println(this.noOfPages);
+	}
+	
+	
+	void  open() {
+		System.out.println("Book open");
+	}
+
+}

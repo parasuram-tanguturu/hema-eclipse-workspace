@@ -1,0 +1,12 @@
+package com.oops.book;
+
+public class Book {
+	
+	int noOfPages ;
+	
+	
+	void  open() {
+		System.out.println("Book open");
+	}
+
+}

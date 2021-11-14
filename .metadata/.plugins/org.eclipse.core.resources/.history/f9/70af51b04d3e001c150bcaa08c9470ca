@@ -1,0 +1,15 @@
+package com.oops.book;
+
+public class BookRunner {
+	public static void main(String[] args) {
+		Book javaprograme = new Book();
+		Book cleancode = new Book();
+		Book javalanguage = new Book();
+
+		javaprograme.noOfPages = 30;
+		cleancode.noOfPages = 40;
+		javalanguage.noOfPages = 100;
+
+	}
+
+}

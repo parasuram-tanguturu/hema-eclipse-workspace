@@ -1,0 +1,18 @@
+package com.oops.bike;
+
+public class MotorBikeRunner {
+
+	public static void main(String[] args) {
+		MotorBike ducadi = new MotorBike();
+		MotorBike honda = new MotorBike();
+		ducadi.start();
+		honda.start();
+
+		ducadi.setSpeed(100);
+		System.out.println(ducadi.getSpeed());
+
+		honda.setSpeed(10);
+		System.out.println(honda.getSpeed())
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.oops.book;
+
+public class BookRunner {
+	public static void main(String[] args) {
+		MotorBike ducati=new MotorBike ();
+	}
+
+}

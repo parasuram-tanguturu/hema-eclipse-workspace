@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\ADMIN\eclipse-hema-workspace\.metadata\.plugins\org.eclipse.jdt.core
+3589150374.index
+2494227973.index
+1865797976.index
+244136805.index
+3250376724.index
